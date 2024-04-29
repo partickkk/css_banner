@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Lugrasimo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.banner {
+    flex: 0 0 auto; 
+}
+
+h1{
+    font-family: 'lugrasimo';
+    color:#000000;
+    padding: 10px;}
+
+ul,li {font-family: 'Caveat';
+        font-size: 25px;}
+
+.banner1{
+    border: 5px solid #ffffff;
+    background-color: #ec6868;
+    padding:inherit;
+    margin: 20px;
+    text-align: justify;
+    border-radius: 20px;
+    
+}
+
+h1{
+    font-family: 'lugrasimo';
+    color:#000000;
+    padding: 10px;}
+    
+ul,li {font-family: 'Caveat';
+        font-size: 25px;}
+    
+.banner2{
+    border: 5px solid #ffffff;
+    background-color: #5db971;
+    padding:inherit;
+    margin: 20px;
+    text-align: justify;
+    border-radius: 20px;
+    
+}
